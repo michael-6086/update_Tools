@@ -13,7 +13,7 @@ def update (up) :
 	print ("\033[1;35mplesse wite updateing Tool Tool-M")
 	print (mik)
 	os.system ("rm -rif Tool-M.py")
-	os.system ("git clone https://github.com/michael-6086/Tool-M/Tool-M.py")
+	os.system ("git clone https://github.com/michael-6086/Tool-M/blob/main/Tool-M.py")
 	print ("\033[1;33mend update")
 	os.system ("python3 Tool-M.py")
 update ("6999")
